@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Era Digital semakin berkembang pesat, terutama bisnis perbankan yang menerapkan sistem digital. namun semakin berkembangnya sistem digital ini, semakin mudah juga orang melakukan fraud pada transaksi. oleh karena itu Bank XYZ meminta tolong untuk Tim Data Scientist Purwadhika untuk mendeteksi Fraud yang terjadi saat transaksi.
+Era Digital semakin berkembang pesat, terutama bisnis perbankan yang menerapkan sistem digital. namun semakin berkembangnya sistem digital ini, semakin mudah juga orang melakukan fraud pada transaksi. oleh karena itu Bank XYZ meminta tolong untuk Tim Data Scientist Purwadhika untuk mendeteksi Fraud yang terjadi saat transaksi. Dataset yang digunakan berasal dari https://www.kaggle.com/ntnu-testimon/paysim1
 
 ## Goals
 
